@@ -4,4 +4,14 @@
   <img src="./gif/landing-video.gif">
 </h1>
 
+
+ ## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [HTML](https://www.w3schools.com/html/)
+
+- [CSS](https://www.w3schools.com/css/)
+
+
 Video de Fundo: [Pixabay](https://pixabay.com/pt/videos/tr%C3%A1fego-noite-luzes-fundo-bokeh-7711/)

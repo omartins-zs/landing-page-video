@@ -14,4 +14,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS](https://www.w3schools.com/css/)
 
 
-Video de Fundo: [Pixabay](https://pixabay.com/pt/videos/tr%C3%A1fego-noite-luzes-fundo-bokeh-7711/)
+#### **Utilitários**
+
+- **Icone Do CSS no Readme: [Repositorio devicons/devicon](https://github.com/devicons/devicon/tree/master/icons)**
+- **Editor: [Visual Studio Code](https://code.visualstudio.com/)**
+- **Markdown: [Markdown Guide](https://www.markdownguide.org/basic-syntax/)**
+- **Emoji Markdown: [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)**
+- **Vídeo de Fundo: [Pixabay](https://pixabay.com/pt/videos/tr%C3%A1fego-noite-luzes-fundo-bokeh-7711/)
